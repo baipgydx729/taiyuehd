@@ -1,0 +1,25 @@
+{
+  "name": "郭***",
+  "phone": "189******99",
+  "idcard": "4201***********070",
+  "pass":"",
+  "form": {
+    "flm": "0",
+    "bdhk": "1",
+    "fwcn": "1",
+    "fhyzk": "3", 
+    "fkfs": "2"
+  },
+  "upload": {
+    "身份": [ "upload/01.jpeg"],
+    "户口": [ "upload/02.jpeg"],
+    "婚姻状况": ["upload/03.jpeg"],
+    "社保": [],
+    "房产": ["upload/04.jpeg"],
+    "收入": ["upload/05.jpeg"],
+    "征信": ["upload/06.jpeg"]
+  },
+  "cookie": {
+    "custfnocookie": 1765
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "taiyuehd",
+  "version": "0.0.1",
+  "description": "taiyuehd test",
+  "main": "cli.mjs",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "node --experimental-modules ./cli.mjs"
+  },
+  "bin": {
+    "taiyue": "node --experimental-modules ./cli.mjs"
+  },
+  "author": "along",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "form-data": "^2.3.3",
+    "handlebars": "^4.0.12",
+    "inquirer": "^6.2.0",
+    "lodash": "^4.17.11",
+    "log-symbols": "^2.2.0",
+    "moment": "^2.22.2",
+    "ora": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baipgydx729/taiyuehd.git"
+  },
+  "keywords": [
+    "taiyuehd",
+    "kaipan",
+    "qianminge"
+  ],
+  "bugs": {
+    "url": "https://github.com/baipgydx729/taiyuehd/issues"
+  },
+  "homepage": "https://github.com/baipgydx729/taiyuehd#readme"
+}
